@@ -1,0 +1,12 @@
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.Data\bin\Debug\netstandard2.0\ModeloDDD.Infra.Data.deps.json
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.Data\bin\Debug\netstandard2.0\ModeloDDD.Infra.Data.dll
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.Data\bin\Debug\netstandard2.0\ModeloDDD.Infra.Data.pdb
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.Data\bin\Debug\netstandard2.0\ModeloDDD.Domain.dll
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.Data\bin\Debug\netstandard2.0\ModeloDDD.Domain.pdb
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ModeloDDD.Infra.Data.csprojAssemblyReference.cache
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ModeloDDD.Infra.Data.csproj.CoreCompileInputs.cache
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ModeloDDD.Infra.Data.AssemblyInfoInputs.cache
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ModeloDDD.Infra.Data.AssemblyInfo.cs
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ModeloDDD.Infra.Data.csproj.CopyComplete
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ModeloDDD.Infra.Data.dll
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.Data\obj\Debug\netstandard2.0\ModeloDDD.Infra.Data.pdb

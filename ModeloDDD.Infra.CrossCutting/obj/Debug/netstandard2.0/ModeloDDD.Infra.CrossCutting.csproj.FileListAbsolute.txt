@@ -1,0 +1,8 @@
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.CrossCutting\bin\Debug\netstandard2.0\ModeloDDD.Infra.CrossCutting.deps.json
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.CrossCutting\bin\Debug\netstandard2.0\ModeloDDD.Infra.CrossCutting.dll
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.CrossCutting\bin\Debug\netstandard2.0\ModeloDDD.Infra.CrossCutting.pdb
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.CrossCutting\obj\Debug\netstandard2.0\ModeloDDD.Infra.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.CrossCutting\obj\Debug\netstandard2.0\ModeloDDD.Infra.CrossCutting.AssemblyInfoInputs.cache
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.CrossCutting\obj\Debug\netstandard2.0\ModeloDDD.Infra.CrossCutting.AssemblyInfo.cs
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.CrossCutting\obj\Debug\netstandard2.0\ModeloDDD.Infra.CrossCutting.dll
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Infra.CrossCutting\obj\Debug\netstandard2.0\ModeloDDD.Infra.CrossCutting.pdb

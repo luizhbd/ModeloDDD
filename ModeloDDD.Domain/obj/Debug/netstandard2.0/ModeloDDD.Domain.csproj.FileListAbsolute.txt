@@ -1,0 +1,9 @@
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Domain\bin\Debug\netstandard2.0\ModeloDDD.Domain.deps.json
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Domain\bin\Debug\netstandard2.0\ModeloDDD.Domain.dll
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Domain\bin\Debug\netstandard2.0\ModeloDDD.Domain.pdb
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Domain\obj\Debug\netstandard2.0\ModeloDDD.Domain.csprojAssemblyReference.cache
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Domain\obj\Debug\netstandard2.0\ModeloDDD.Domain.csproj.CoreCompileInputs.cache
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Domain\obj\Debug\netstandard2.0\ModeloDDD.Domain.AssemblyInfoInputs.cache
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Domain\obj\Debug\netstandard2.0\ModeloDDD.Domain.AssemblyInfo.cs
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Domain\obj\Debug\netstandard2.0\ModeloDDD.Domain.dll
+C:\Luiz\estudos\ModeloDDD\ModeloDDD.Domain\obj\Debug\netstandard2.0\ModeloDDD.Domain.pdb

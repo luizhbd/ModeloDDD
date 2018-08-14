@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FluentValidation.AspNetCore" Version="7.6.105" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ModeloDDD.Domain\ModeloDDD.Domain.csproj" />
+    <ProjectReference Include="..\ModeloDDD.Infra.Data\ModeloDDD.Infra.Data.csproj" />
+  </ItemGroup>
+
+</Project>
